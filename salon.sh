@@ -35,7 +35,7 @@ SERVICES() {
 }
 
 GET_DETAILS() {
-     # get customer info
+    # get customer info
     echo -e "\nWhat's your phone number?"
     read CUSTOMER_PHONE
 
@@ -67,7 +67,7 @@ GET_DETAILS() {
 }
 
 EXIT() {
-  echo -e "\nThank you for stopping in.\n"
+  echo -e "\nThank you for stopping by.\n"
 }
 
 SERVICES
